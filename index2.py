@@ -1,4 +1,4 @@
 name = 'James'
 age = 30
-place = 'Vancouver'
+place = 'Vancouver Canada'
 alive = True
